@@ -1,0 +1,56 @@
+Customer Data Export
+Confidential Document - TechCorp India Pvt Ltd
+Generated: January 15, 2024
+
+============================================================
+CUSTOMER CONTACT INFORMATION
+============================================================
+
+Name: Rahul Verma
+Email: rahul.verma@email.com
+Phone: 919988776655
+Alternate Phone: +91-11-12345678
+Aadhaar: 5678 9012 3456
+PAN: XYZAB5678C
+Address: 12 Jubilee Hills, Hyderabad 500033
+Office: Madhapur, Hyderabad 500081
+Date of Birth: 03 December 1987
+IP Address: 198.51.100.25
+Credit Card: 4111-1111-1111-1111
+
+------------------------------------------------------------
+
+Name: Ananya Gupta
+Email: ananya.gupta@customer.in
+Phone: +91-9988776655
+Alternate Phone: 022-12345678
+Aadhaar: 3456 7890 1234
+PAN: ABCPQ1234D
+Address: 45 Salt Lake, Kolkata, West Bengal 700091
+Office: Sector 5, Kolkata 700091
+Date of Birth: 20 May 1995
+IP Address: 203.0.113.50
+Credit Card: 4532-1234-5678-9012
+
+------------------------------------------------------------
+
+Name: Rajesh Kumar
+Email: rajesh.kumar@techcorp.in
+Phone: +91-9876543210
+Aadhaar: 1234 5678 9012
+PAN: ABCDE1234F
+Address: 123 MG Road, Bangalore, Karnataka 560001
+IP Address: 192.168.1.100
+Credit Card: 3712-345678-90123
+
+============================================================
+SYSTEM ACCESS LOGS
+============================================================
+
+admin@techcorp.in accessed from 192.168.1.1 at 2024-01-15 10:30:00
+manager@techcorp.in accessed from 10.0.0.100 at 2024-01-15 14:45:00
+rajesh.kumar@techcorp.in accessed from 172.16.0.50 at 2024-01-15 16:20:00
+
+============================================================
+END OF DOCUMENT
+============================================================

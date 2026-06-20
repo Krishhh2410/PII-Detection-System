@@ -1,0 +1,115 @@
+%PDF-1.4
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 612 792]
+/Contents 4 0 R
+/Resources <<
+/Font <<
+/F1 5 0 R
+>>
+>>
+>>
+endobj
+4 0 obj
+<<
+/Length 800
+>>
+stream
+BT
+/F1 18 Tf
+100 750 Td
+(Employee Information Report) Tj
+0 -30 Td
+/F1 12 Tf
+(Confidential - Internal Use Only) Tj
+0 -30 Td
+(Company: TechCorp India Pvt Ltd) Tj
+0 -20 Td
+(Document ID: DOC-2024-001) Tj
+0 -40 Td
+/F1 14 Tf
+(Employee Details:) Tj
+0 -25 Td
+/F1 10 Tf
+(Name: Rajesh Kumar) Tj
+0 -15 Td
+(Email: rajesh.kumar@techcorp.in) Tj
+0 -15 Td
+(Phone: +91-9876543210) Tj
+0 -15 Td
+(Aadhaar: 1234 5678 9012) Tj
+0 -15 Td
+(PAN: ABCDE1234F) Tj
+0 -15 Td
+(Address: 123 MG Road, Bangalore, Karnataka 560001) Tj
+0 -15 Td
+(IP Address: 192.168.1.100) Tj
+0 -30 Td
+(Name: Priya Sharma) Tj
+0 -15 Td
+(Email: priya.sharma@techcorp.in) Tj
+0 -15 Td
+(Phone: 09876543210) Tj
+0 -15 Td
+(Aadhaar: 9876 5432 1098) Tj
+0 -15 Td
+(PAN: FGHIJ5678K) Tj
+0 -15 Td
+(Address: 456 Park Street, Mumbai, Maharashtra 400001) Tj
+0 -15 Td
+(IP Address: 10.0.0.50) Tj
+0 -30 Td
+(Name: Amit Patel) Tj
+0 -15 Td
+(Email: amit.patel@gmail.com) Tj
+0 -15 Td
+(Phone: +91 87654 32109) Tj
+0 -15 Td
+(Aadhaar: 4567 8901 2345) Tj
+0 -15 Td
+(PAN: KLMNO9012P) Tj
+0 -15 Td
+(Address: 789 Nehru Place, New Delhi, Delhi 110019) Tj
+0 -15 Td
+(IP Address: 172.16.0.25) Tj
+ET
+endstream
+endobj
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000266 00000 n 
+0000001119 00000 n 
+trailer
+<<
+/Size 6
+/Root 1 0 R
+>>
+startxref
+1205
+%%EOF
